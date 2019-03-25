@@ -10,5 +10,5 @@ Auto sync ur system time 自动同步你的系统时间
 ## Usage
 This program can running at **Windows Operation System only**.  
 The program has called *nircmd.exe*  
-u can use **Scheduled Tasks on windows** to make this program running while the computer has boot.  
+U can use **Scheduled Tasks on windows** to make this program running while the computer has boot.  
 I recommended to run **点我校准时间.bat** to run this program directly.
